@@ -1,1 +1,2 @@
-# DS-A-ToolBox
+# Data Structures % Algorithms ToolBox
+This is repo is for several data strcutures and algorithms questions, solutions and explaination. The documentation is being updated and re-organized frequently to meet the changes of the content uploaded.
